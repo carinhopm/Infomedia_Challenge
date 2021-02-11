@@ -1,4 +1,4 @@
-# Infomedia_Challenge
+# Infomedia Sentiment Analysis Challenge
 
 The resolution for the challenge can be found in the IPython notebook called _Infomedia_Challenge.ipynb_.
 
